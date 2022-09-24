@@ -4,6 +4,7 @@
 	"description": "Freecodecamp backend with node",
 	"keywords": ["mode", "backend", "freecodecamp", "express"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
